@@ -1,4 +1,4 @@
-# Projeto-Livraria-
+# Projeto Livraria
 Pede-se:	
 1) Consultar nome, valor unitário, nome da editora e nome do autor dos livros do estoque que foram vendidos. Não podem haver repetições.	
 2) Consultar nome do livro, quantidade comprada e valor de compra da compra 15051	
